@@ -1,2 +1,1 @@
-# csfle-springboot
-Springboot CSFLE Application
+# spring-kafka-json

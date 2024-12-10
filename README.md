@@ -19,3 +19,5 @@ This project demonstrates **Client-Side Field Level Encryption (CSFLE)** support
 Run the following command to start the application:  
 ```bash
 mvn spring-boot:run
+
+### Note: This project can be used to demonstrate the json refs.

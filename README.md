@@ -12,7 +12,7 @@ This project demonstrates **Client-Side Field Level Encryption (CSFLE)** support
 
 ### 1. Configure Application Properties
 - Update the application properties file located at:  
-  `src/main/resources/avro/application copy.properties`
+  `src/main/resources/application.properties`
 - Ensure the topic in the consumer configuration matches your desired topic to consume decrypted events.
 
 ### 2. Run the Application
